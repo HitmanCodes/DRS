@@ -75,7 +75,7 @@ def not_out():
 
 # Width and height of our main screen
 SET_WIDTH = 650
-SET_HEIGHT = 368
+SET_HEIGHT = 367
 
 # Tkinter gui starts here
 window = tkinter.Tk()
